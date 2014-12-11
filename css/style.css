@@ -15,7 +15,7 @@
 h1 {
 
   font-size: 40px;
-  color: #F5A623;
+  color: #ff0000;
   line-height: 48px;
   display: inline;
 }
@@ -120,7 +120,7 @@ a {
 
 /* TODO: Replace with image later */
 #header {
-  background-color: #484848;
+  background-color: #4800ff;
 }
 
 .flex-box {
